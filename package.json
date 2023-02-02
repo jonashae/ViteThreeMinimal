@@ -1,0 +1,29 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@pnext/three-loader": "^0.2.9",
+    "animejs": "latest",
+    "bezier-easing": "^2.1.0",
+    "lil-gui": "latest",
+    "three": "latest",
+    "troika-three-text": "^0.47.1",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vuex": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "@vue/compiler-sfc": "latest",
+    "eslint": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-prettier": "latest",
+    "eslint-plugin-vue": "latest",
+    "prettier": "latest",
+    "vite": "latest"
+  }
+}
